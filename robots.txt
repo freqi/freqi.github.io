@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://freqi.github.io/Pod/sitemap.Pod.gz
